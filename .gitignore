@@ -1,1 +1,8 @@
 *.vsidx
+*.wsuo
+*.json
+*.db
+*.db-shm
+*.db-wal
+*.suo
+*.vs
