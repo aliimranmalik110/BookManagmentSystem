@@ -1,0 +1,869 @@
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\appsettings.Development.json
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\appsettings.json
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.staticwebassets.runtime.json
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.staticwebassets.endpoints.json
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.exe
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.deps.json
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.runtimeconfig.json
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.pdb
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Azure.Core.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Azure.Identity.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Humanizer.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Common.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.ClientModel.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.CodeDom.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.DataAccess.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Models.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Utility.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.DataAccess.pdb
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Models.pdb
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Utility.pdb
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.csproj.AssemblyReference.cache
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.AssemblyInfoInputs.cache
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.AssemblyInfo.cs
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.RazorAssemblyInfo.cache
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.RazorAssemblyInfo.cs
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\bundle\BulkyBookWeb.styles.css
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\dt9l4ntted-nvn1k8wd6x.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\17h45oka8t-61n19gt1b8.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nktr6vrdyz-xtxxf3hu2r.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vh8d92xpnb-bqjiyaj88i.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8dyd7s8x2d-c2jlpeoesf.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jd9w9j4bi0-erw9l3u2r3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\d01v5w03tr-aexeepp0ev.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\t7tploo1l8-d7shbmvgxk.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ke6xzyyqqk-ausgxo2sd3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\m0q1q1hjpa-k8d9w2qqmf.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zj63odk6l8-cosvhxvwiu.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jl6gbyq774-ub07r2b239.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7mgjn4t8a6-fvhpjtyr6v.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\u8uevxk1eq-b7pk76d08c.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\wb6n4h36zu-fsbi9cje9m.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\dp577zg8yz-rzd6atqjts.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\p655t30o3y-ee0r1s7dh0.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tcko485qya-dxx9fxp4il.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\pp4czfkpaw-jd9uben2k1.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\21dxgfocdp-khv3u5hwcm.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\mqwnxxuwat-r4e9w2rdcm.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\anhlmt39ip-lcd1t2u6c8.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\x6d4vkkgve-c2oey78nd0.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\85pq3v301b-tdbxkamptv.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\5j1jewse59-j5mq2jizvt.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\36dujn03ak-06098lyss8.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ei1tdvs5pw-nvvlpmu67g.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\na0q0yrpaw-pj5nd1wqec.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\y1ui5ya6a1-46ein0sx1k.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\gntvbm3gao-v0zj4ognzu.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\l6ktscnnzl-37tfw0ft22.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\pdoshbnka4-hrwsygsryq.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tr8f4hr7hd-pk9g2wxc8p.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\p1yobyop0n-ft3s53vfgj.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\drrze2zjdv-6cfz1n2cew.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\xww5rqf1cp-6pdc2jztkx.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\xq7bdxcy8c-493y06b0oq.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\by6irgep9y-iovd86k7lj.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7twxahafkt-vr1egmr9el.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jsoxt0xzf6-kbrnm935zg.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\y8jy4a5vb1-jj8uyg4cgr.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2shw97snn8-y7v9cxd14o.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\hjplirm7y5-notf2xhcfb.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\x44tkiiha2-h1s4sie4z3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\33h9i5b07i-63fj8s7r0e.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\in288m7o3y-0j3bgjxly4.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tjgreg9ib7-47otxtyo56.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\wd6micnmvo-4v8eqarkd7.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\cisyby9gnh-356vix0kms.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\fwyoegics2-83jwlth58m.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\wa7f2wtd29-mrlpezrjn3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\615m86xfeg-lzl9nlhx6b.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\suhocjz71a-ag7o75518u.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2dqfjs4xyn-x0q3zqp4vz.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2usgml6nmq-0i3buxo5is.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zgd9vebpen-o1o13a6vjx.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7kue9lowez-ttgo8qnofa.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\n005ig3hab-2z0ns9nrw6.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\dn6q31msi8-muycvpuwrr.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\5tu5xb91bb-87fc7y1x7t.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\43lcozqqo5-mlv21k5csn.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.build.json
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.development.json
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBoo.E6A3C86A.Up2Date
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.dll
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\refint\BulkyBookWeb.dll
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.pdb
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.genruntimeconfig.cache
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\ref\BulkyBookWeb.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jekca9i3q7-ltbe7iv8j2.gz
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\sa5h70afvc-aqdp0iwbxw.gz
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Stripe.net.dll
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ocnq7azw3b-bi6kl16z2g.gz
+C:\Ali Imran\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.sourcelink.json
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\z2ihm9m2dx-92heqpbofj.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\5fj11zmfmr-afcuw43vsl.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\800o73md2y-d5k1nz8hx2.gz
+C:\Ali Imran\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\yqdgyy4aak-d5k1nz8hx2.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\appsettings.Development.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\appsettings.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.staticwebassets.endpoints.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.staticwebassets.runtime.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.exe
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.deps.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.runtimeconfig.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBookWeb.pdb
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Azure.Core.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Azure.Identity.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Humanizer.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Common.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\Stripe.net.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.ClientModel.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.CodeDom.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.DataAccess.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Models.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Utility.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.DataAccess.pdb
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Models.pdb
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\bin\Debug\net9.0\BulkyBook.Utility.pdb
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.csproj.AssemblyReference.cache
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.AssemblyInfoInputs.cache
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.AssemblyInfo.cs
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.RazorAssemblyInfo.cache
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.RazorAssemblyInfo.cs
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\bundle\BulkyBookWeb.styles.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\dt9l4ntted-nvn1k8wd6x.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\17h45oka8t-61n19gt1b8.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\sa5h70afvc-aqdp0iwbxw.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ocnq7azw3b-bi6kl16z2g.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jekca9i3q7-ltbe7iv8j2.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nktr6vrdyz-xtxxf3hu2r.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\z2ihm9m2dx-92heqpbofj.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\vh8d92xpnb-bqjiyaj88i.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8dyd7s8x2d-c2jlpeoesf.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jd9w9j4bi0-erw9l3u2r3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\d01v5w03tr-aexeepp0ev.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\t7tploo1l8-d7shbmvgxk.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ke6xzyyqqk-ausgxo2sd3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\m0q1q1hjpa-k8d9w2qqmf.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zj63odk6l8-cosvhxvwiu.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jl6gbyq774-ub07r2b239.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7mgjn4t8a6-fvhpjtyr6v.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\u8uevxk1eq-b7pk76d08c.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\wb6n4h36zu-fsbi9cje9m.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\dp577zg8yz-rzd6atqjts.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\p655t30o3y-ee0r1s7dh0.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tcko485qya-dxx9fxp4il.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\pp4czfkpaw-jd9uben2k1.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\21dxgfocdp-khv3u5hwcm.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\mqwnxxuwat-r4e9w2rdcm.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\anhlmt39ip-lcd1t2u6c8.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\x6d4vkkgve-c2oey78nd0.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\85pq3v301b-tdbxkamptv.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\5j1jewse59-j5mq2jizvt.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\36dujn03ak-06098lyss8.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\ei1tdvs5pw-nvvlpmu67g.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\5fj11zmfmr-afcuw43vsl.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\na0q0yrpaw-pj5nd1wqec.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\y1ui5ya6a1-46ein0sx1k.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\gntvbm3gao-v0zj4ognzu.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\l6ktscnnzl-37tfw0ft22.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\pdoshbnka4-hrwsygsryq.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tr8f4hr7hd-pk9g2wxc8p.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\p1yobyop0n-ft3s53vfgj.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\drrze2zjdv-6cfz1n2cew.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\xww5rqf1cp-6pdc2jztkx.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\xq7bdxcy8c-493y06b0oq.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\by6irgep9y-iovd86k7lj.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7twxahafkt-vr1egmr9el.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\jsoxt0xzf6-kbrnm935zg.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\y8jy4a5vb1-jj8uyg4cgr.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2shw97snn8-y7v9cxd14o.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\hjplirm7y5-notf2xhcfb.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\x44tkiiha2-h1s4sie4z3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\33h9i5b07i-63fj8s7r0e.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\in288m7o3y-0j3bgjxly4.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\tjgreg9ib7-47otxtyo56.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\wd6micnmvo-4v8eqarkd7.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\cisyby9gnh-356vix0kms.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\fwyoegics2-83jwlth58m.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\wa7f2wtd29-mrlpezrjn3.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\615m86xfeg-lzl9nlhx6b.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\suhocjz71a-ag7o75518u.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2dqfjs4xyn-x0q3zqp4vz.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\2usgml6nmq-0i3buxo5is.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zgd9vebpen-o1o13a6vjx.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\7kue9lowez-ttgo8qnofa.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\n005ig3hab-2z0ns9nrw6.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\dn6q31msi8-muycvpuwrr.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\5tu5xb91bb-87fc7y1x7t.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\43lcozqqo5-mlv21k5csn.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\800o73md2y-d5k1nz8hx2.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\yqdgyy4aak-d5k1nz8hx2.gz
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.build.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.development.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBoo.E6A3C86A.Up2Date
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\refint\BulkyBookWeb.dll
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.pdb
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyBookWeb.genruntimeconfig.cache
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\obj\Debug\net9.0\ref\BulkyBookWeb.dll

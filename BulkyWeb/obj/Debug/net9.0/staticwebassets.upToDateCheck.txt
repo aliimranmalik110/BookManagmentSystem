@@ -1,0 +1,150 @@
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\favicon.ico
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\dist\jquery.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\LICENSE.txt
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\css\site.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\js\product.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\js\site.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\js\order.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\js\company.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\js\user.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Ali Imran\Sample Projects\Bulky\BulkyWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\book.png
+wwwroot\images\lawn_leaf.jpg
+wwwroot\images\products\product-1\59761eab-c304-42ee-8021-21c8a6e055cb.jpg
+wwwroot\images\products\product-1\b23af88c-2907-40e1-bad7-4716f7fb5117.jpg
+wwwroot\images\products\product-10\b46a9354-d97a-4eac-8981-a92ebd0cf6ae.jpg
+wwwroot\images\products\product-2\99b6a801-01cc-494c-ac9e-f3e236873c44.jpg
+wwwroot\images\products\product-2\c26c5643-b2a1-4c3e-9699-839ea2eb791e.jpg
+wwwroot\images\products\product-3\116da30e-8fcb-4c02-afc7-1d28fdbc44ed.jpg
+wwwroot\images\products\product-3\214c6255-e154-4ac0-a354-aeff16882bea.jpg
+wwwroot\images\products\product-4\1ae89000-cfeb-4f23-bf67-fef9c9096bcc.jpg
+wwwroot\images\products\product-4\3456a400-040a-4e55-a1e0-f66619e71768.jpg
+wwwroot\images\products\product-5\525be799-8089-4ece-8789-5ccf1607f9ca.jpg
+wwwroot\images\products\product-5\abe8f061-d83e-4c59-9c91-4dfca303c697.jpg
+wwwroot\images\products\product-6\2b10c02b-1cc9-4fe6-9504-0ac01f2535b2.jpg
+wwwroot\images\products\product-6\52367d85-172c-4538-a1c3-b4fc96eec9c0.jpg
+wwwroot\images\products\product-9\d217fad0-1f94-4c06-9023-48f806ffd5ee.jpg
+wwwroot\images\products\product-9\fbc1856f-6fdd-48e0-82a1-18b4454db4f8.jpg
+wwwroot\js\company.js
+wwwroot\js\order.js
+wwwroot\js\product.js
+wwwroot\js\site.js
+wwwroot\js\user.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
